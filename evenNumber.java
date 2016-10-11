@@ -2,10 +2,10 @@ import java.util.*;
 import java.io.*;
 import java.lang.*;
 
-public class oddNumber
+public class evenNumber
 {
 
-		public static void isOddNumber(int a,int b)
+		public static void isEvenNumber(int a,int b)
 		{
 			
 				ArrayList <Integer> al = new ArrayList<Integer>();
