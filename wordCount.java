@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class charCount
+public class wordCount
 {
 		public static int countChar(String str)
 		{
