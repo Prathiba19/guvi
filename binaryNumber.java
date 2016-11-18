@@ -22,7 +22,7 @@ public class binaryNumber
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the number;\n");
 		int n=sc.nextInt();
-		int[] int1=new int[9];
+		int[] int1=new int[7];
 		for(int i:convertBinary(int1,n))
 		{
 			System.out.println(i);
